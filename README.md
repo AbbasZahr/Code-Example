@@ -1,0 +1,2 @@
+# Code-Example - Assignment 3 Description
+Assignment 3 involved using MATLAB to programm certain functions such as Image cropping, plotting histograms for image colour channels, as well as creating a basic image identification system that utilises the calculated of Sum Squared Differences between a target object and an image in order to check if the object exists within the main image, and print the exact location of it.
